@@ -144,4 +144,3 @@ const gradeCalculation = (CGPA) => {
     return "?";
   }
 };
-
