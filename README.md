@@ -16,11 +16,9 @@ It Calculate your final CGPA and grade according to any BTEB  regulations. You w
 
 * It's Will Show your Grade of Each Semester on realtime .
 
+
+
 ### Technologies Used to Build This Application
-
 * JavaScript 
-
 * HTML
-
 * CSS
-
